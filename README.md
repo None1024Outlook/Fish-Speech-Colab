@@ -3,3 +3,4 @@
 ## This is not the official Fish Speech project; it is a third-party project.
 ### As of 2024/12/06, Fish Speech does not support fine-tuning for version 1.5. Therefore, the code version 1.4.3 is used in Colab.
 #### This Colab notebook is ready to use directly.
+#### This notebook can be used both in Colab and locally.
